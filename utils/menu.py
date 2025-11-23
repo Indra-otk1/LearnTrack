@@ -1,7 +1,7 @@
 def display_main_menu():
     """Display the main menu"""
     print("\n" + "="*60)
-    print("           LEARNTRACK - MAIN MENU")
+    print("          LEARNTRACK - MAIN MENU")
     print("="*60)
     print("1.  Student Management")
     print("2.  Course Management")
